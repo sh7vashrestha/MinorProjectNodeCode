@@ -9,12 +9,12 @@
 #include <Servo.h>
 
 //Firebase Defination
-#define API_KEY "AIzaSyA-UD9AkPMalYkEY6D7RQoifOZC6e2LXr8"
+#define API_KEY "API-KEY"
 #define PROJECT_ID "access-control-system-aa610"
 #define UEMAIL "xxx@gmail.com"
 #define PASSWORD "xxx"
 #define FIREBASE_FCM_SERVER_KEY "KEY"
-#define DEVICE_TOKEN "eYcVYnddSle4vfnocWBJyc:APA91bFAkoik2cP_nvMNQp8pTZ0vwkLCPG6MT6Oh0cWBPElYbBeBOerZfGb8EkDEc8nbL0CSWlERKOmxiDbXrCE700BEmMyCbFTMG217_ZIfI8rkcevxtiyWGFtBvVqQ-YsuML6hvQr4"
+#define DEVICE_TOKEN "APA91bFAkoik2cP_nvMNQp8pTZ0vwkLCPG6MT6Oh0cWBPElYbBeBOerZfGb8EkDEc8nbL0CSWlERKOmxiDbXrCE700BEmMyCbFTMG217_ZIfI8rkcevxtiyWGFtBvVqQ-YsuML6hvQr4"
 
 #define WIFI_SSID "RTE_HALL"
 #define WIFI_PASSWORD ""
