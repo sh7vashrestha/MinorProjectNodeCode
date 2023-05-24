@@ -13,7 +13,7 @@
 #define PROJECT_ID "access-control-system-aa610"
 #define UEMAIL "xxx@gmail.com"
 #define PASSWORD "xxx"
-#define FIREBASE_FCM_SERVER_KEY "AAAAciY2VsE:APA91bEVPSv_IE5GwQlK2arL_yYu7cQRKZAxCaJsTLhLJMlp1fYP7g0QsiGTzNinjEEyY7LHq40XM6_mluaAhVYwhCMHzEzhmcJ9aNLeiYRC2QPadbzyqAblXFu7Zm-fU78k5VxvYFjK"
+#define FIREBASE_FCM_SERVER_KEY "KEY"
 #define DEVICE_TOKEN "eYcVYnddSle4vfnocWBJyc:APA91bFAkoik2cP_nvMNQp8pTZ0vwkLCPG6MT6Oh0cWBPElYbBeBOerZfGb8EkDEc8nbL0CSWlERKOmxiDbXrCE700BEmMyCbFTMG217_ZIfI8rkcevxtiyWGFtBvVqQ-YsuML6hvQr4"
 
 #define WIFI_SSID "RTE_HALL"
